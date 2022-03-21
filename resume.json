@@ -1,0 +1,202 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "",
+    "skills": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Mateusz Kulpa",
+    "email": "m.c.kulpa@gmail.com",
+    "phone": "+48 693 971 990",
+    "location": {
+      "address": "Cracow, Poland"
+    }
+  },
+  "education": [
+    {
+      "institution": "AGH University of Science and Technology",
+      "studyType": "MSc",
+      "endDate": "2013",
+      "location": "Cracow, Poland",
+      "area": "Applied computer science, specialization of Software Engineering.",
+      "startDate": "2007"
+    },
+    {}
+  ],
+  "work": [
+    {
+      "highlights": [
+        "designing architecture and leading the teams in a variety of projects with Java, Kotlin, C#/.NET and frontend technologies",
+        "software development, testing, maintenance and writing english/polish technical documentation",
+        "optimizing team efficiency by introducing agile practices",
+        "extending and maintaining Azure cloud infrastructure and Continuous Integration/Continuous Delivery pipelines",
+        null,
+        "creation and maintenance of system monitoring dashboards using Grafana/Prometheus and Azure Cloud"
+      ],
+      "company": "BFirst.tech",
+      "position": "System Architect",
+      "location": "Cracow",
+      "startDate": "2018",
+      "endDate": "Present"
+    },
+    {
+      "company": "Dronn.com",
+      "position": "Regular and Senior Software Developer",
+      "website": "",
+      "endDate": "2018",
+      "highlights": [
+        "planning the software architecture and API design",
+        "software development, testing, maintenance and writing english/polish technical documentation",
+        "creation and maintenance of Continuous Integration and Continuous Delivery pipelines",
+        null,
+        "conducting job interviews",
+        null
+      ],
+      "location": "Cracow",
+      "startDate": "2011"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Java/Kotlin/Groovy",
+        null
+      ]
+    },
+    {
+      "keywords": [
+        "REST, SOAP, Swagger/OpenAPI"
+      ],
+      "name": "API design"
+    },
+    {
+      "keywords": [
+        "PostgreSQL, Microsoft SQL Server, HSQLDB"
+      ],
+      "name": "Database management"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Linux",
+        null,
+        null,
+        "Azure DevOps",
+        "Azure Cloud",
+        "Bamboo",
+        "Gitlab"
+      ],
+      "name": "DevOps/SysOps"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "Kotlin",
+        "Apache Kafka",
+        "Spring Framework, Spring Boot",
+        "PostgreSQL/Hibernate/Spring Data/QueryDSL/Liquibase",
+        "Prometheus/Loki/Grafana",
+        null,
+        null,
+        null,
+        "Thymeleaf",
+        "Microsoft SQL Server/SymmetricDS",
+        "Docker",
+        "RxJava",
+        "Spock, Swagger, Gradle, Git"
+      ],
+      "name": "Data Warehouse",
+      "description": "Customized ETL process based on Kafka and SymmetricDS database replication allowing creation of reports using Business Intelligence tools and custom UI built with Thymeleaf."
+    },
+    {
+      "keywords": [
+        "C#/.NET",
+        "EntityFramework",
+        "Unity",
+        "Azure",
+        "Kotlin",
+        "Guice",
+        "Microsoft SQL Server/Hibernate/Spring Data/QueryDSL/Liquibase",
+        null,
+        null,
+        null,
+        "Redis",
+        "Docker, Kubernetes",
+        "Spock, Swagger, Gradle, Git"
+      ],
+      "name": "gPIMS",
+      "description": "Processing and visualization of data collected during non-destructive testing of pipes. "
+    },
+    {
+      "keywords": [
+        "Java",
+        "Akka",
+        "Guice",
+        "PostgreSQL/Hibernate/Spring Data/QueryDSL/Liquibase",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Docker",
+        "Redis",
+        "GraphQL",
+        "Android",
+        "StatsD/Graphite/Grafana",
+        "Elasticsearch/Logstash/Kibana",
+        "Spock, Swagger, Gradle, Git"
+      ],
+      "description": "Software developer, architect and team leader of voice based dialogue system (IVRs) with speech recognition (ASR) and synthesis (TTS). The project was deployable for various PBX systems and Kiosks. During this project I learned how to use Akka Actor System to design fault tolerant architecture with active-active redundancy, service versioning and monitoring.",
+      "name": "Dronn"
+    },
+    {
+      "keywords": [
+        "Java, Android",
+        "PostgreSQL/Oracle/Microsoft SQL Server/Hibernate/Spring Data/QueryDSL/Liquibase",
+        "StatsD/Graphite/Grafana",
+        "Elasticsearch/Logstash/Kibana",
+        null,
+        "Bamboo, Docker Swarm",
+        "Spock, Swagger, Gradle, Git"
+      ],
+      "name": "VoicePIN",
+      "description": " Software developer, architect and team leader of a fixed passphrase and text-independent biometric verification system. I was also responsible for configuring CI/CD pipelines on Bamboo with a customized approach of deploying the integration test application containers to a Docker Swarm cluster.",
+      "url": "https://github.com/VoicePIN"
+    },
+    {
+      "keywords": [
+        "Java, Spring Framework, Hibernate, Microsoft SQL Server, Play Framework, Gradle, Git, Akka",
+        null
+      ],
+      "description": "Software developer, architect and team leader of continuous, automated speech recognition system - detecting hotwords in recordings using external Speech Recognition engines. Apart from regular development I was also responsible for designing secure REST APIs and fault tolerant master-slave architecture based on Actor system.",
+      "name": "Speech Analytics"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
